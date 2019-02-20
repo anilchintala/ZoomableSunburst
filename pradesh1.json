@@ -1,0 +1,723 @@
+{
+  "name": "Pradesh-1",
+  "children": [
+    {
+      "name": "Taplejung",
+      "children": [
+        {
+          "name": "Taplejung-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 29479
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 16888
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1591
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Panchthar",
+      "children": [
+        {
+          "name": "Panchthar-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 38641
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 28025
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1994
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1593
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 890
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ilam",
+      "children": [
+        {
+          "name": "Ilam-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 36805
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 19638
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 2059
+            },
+            {
+              "name": "Mangol_National_Org",
+              "size": 1710
+            },
+            {
+              "name": "Bibeksheel_Sajha",
+              "size": 830
+            }
+          ]
+        },
+        {
+          "name": "Ilam-2",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 36517
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 26865
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1761
+            },
+            {
+              "name": "Rastriya_Janamukti_Party",
+              "size": 1308
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jhapa",
+      "children": [
+        {
+          "name": "Jhapa-1",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 36173
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 33310
+            },
+            {
+              "name": "Mangol_National_Org",
+              "size": 1389
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1044
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 904
+            }
+          ]
+        },
+        {
+          "name": "Jhapa-2",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 45817
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 32050
+            },
+            {
+              "name": "Bibeksheel_Sajha",
+              "size": 1105
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 608
+            },
+            {
+              "name": "Mangol_National_Org",
+              "size": 558
+            },
+            {
+              "name": "Rastriya_Janamukti_Party",
+              "size": 531
+            }
+          ]
+        },
+        {
+          "name": "Jhapa-3",
+          "children": [
+            {
+              "name": "RPP",
+              "size": 44614
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 31171
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 1306
+            }
+          ]
+        },
+        {
+          "name": "Jhapa-4",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 43515
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 26822
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1132
+            },
+            {
+              "name": "Bibeksheel_Sajha",
+              "size": 665
+            }
+          ]
+        },
+        {
+          "name": "Jhapa-5",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 57139
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 28297
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1915
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1380
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 642
+            },
+            {
+              "name": "Bibeksheel_Sajha",
+              "size": 611
+            },
+            {
+              "name": "Rastriya_Janamukti_Party",
+              "size": 519
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sankhuwasabha",
+      "children": [
+        {
+          "name": "Sankhuwasabha-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 32769
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 31639
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 587
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terhathum",
+      "children": [
+        {
+          "name": "Terhathum-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 21335
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 19314
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 910
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bhojpur",
+      "children": [
+        {
+          "name": "Bhojpur-1",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 34394
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 21696
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 2601
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dhankuta",
+      "children": [
+        {
+          "name": "Dhankuta-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 37333
+            },
+            {
+              "name": "RPP_Democratic",
+              "size": 26874
+            },
+            {
+              "name": "Unified_RPP_Rastrabadi",
+              "size": 1390
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 726
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Morang",
+      "children": [
+        {
+          "name": "Morang-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 37524
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 31436
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1152
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 623
+            }
+          ]
+        },
+        {
+          "name": "Morang-2",
+          "children": [
+            {
+              "name": "Nepali_Congress",
+              "size": 35819
+            },
+            {
+              "name": "NCP_UML",
+              "size": 34014
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 2595
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 2082
+            }
+          ]
+        },
+        {
+          "name": "Morang-3",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 42413
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 40506
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 1338
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1013
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 974
+            }
+          ]
+        },
+        {
+          "name": "Morang-4",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 33529
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 26800
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 3401
+            },
+            {
+              "name": "Unified_RPP_Rastrabadi",
+              "size": 1050
+            },
+            {
+              "name": "Bibeksheel_Sajha",
+              "size": 874
+            },
+            {
+              "name": "Deshbhakta_Ganatantrik_Morcha",
+              "size": 739
+            }
+          ]
+        },
+        {
+          "name": "Morang-5",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 22945
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 19153
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 18649
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 1895
+            },
+            {
+              "name": "Unified_RPP_Rastrabadi",
+              "size": 667
+            }
+          ]
+        },
+        {
+          "name": "Morang-6",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 33941
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 33266
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 5261
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 1118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sunsari",
+      "children": [
+        {
+          "name": "Sunsari-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 44528
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 22123
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 1521
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 1366
+            },
+            {
+              "name": "NayaSakti",
+              "size": 742
+            },
+            {
+              "name": "Mangol_National_Org",
+              "size": 687
+            }
+          ]
+        },
+        {
+          "name": "Sunsari-2",
+          "children": [
+            {
+              "name": "Nepali_Congress",
+              "size": 41495
+            },
+            {
+              "name": "NCP_Maobadi",
+              "size": 35349
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 4834
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 1674
+            },
+            {
+              "name": "Independent17",
+              "size": 759
+            },
+            {
+              "name": "NayaSakti",
+              "size": 650
+            },
+            {
+              "name": "Sanghiya_Loktantrik",
+              "size": 623
+            },
+            {
+              "name": "Unified_RPP_Rastrabadi",
+              "size": 573
+            }
+          ]
+        },
+        {
+          "name": "Sunsari-3",
+          "children": [
+            {
+              "name": "Nepali_Congress",
+              "size": 38972
+            },
+            {
+              "name": "NCP_UML",
+              "size": 38651
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1854
+            },
+            {
+              "name": "Independent22",
+              "size": 1063
+            }
+          ]
+        },
+        {
+          "name": "Sunsari-4",
+          "children": [
+            {
+              "name": "Nepali_Congress",
+              "size": 32347
+            },
+            {
+              "name": "NCP_UML",
+              "size": 25750
+            },
+            {
+              "name": "Rastriya_Janata_Party",
+              "size": 5020
+            },
+            {
+              "name": "Nepali_Janata_Dal",
+              "size": 1089
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 1037
+            },
+            {
+              "name": "Deshbhakta_Ganatantrik_Morcha",
+              "size": 747
+            },
+            {
+              "name": "Unified_RPP_Rastrabadi",
+              "size": 678
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solukhumbu",
+      "children": [
+        {
+          "name": "Solukhumbu-1",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 20747
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 17294
+            },
+            {
+              "name": "NayaSakti",
+              "size": 826
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khotang",
+      "children": [
+        {
+          "name": "Khotang-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 37837
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 23465
+            },
+            {
+              "name": "NayaSakti",
+              "size": 2494
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 2377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Okhaldhunga",
+      "children": [
+        {
+          "name": "Okhaldhunga-1",
+          "children": [
+            {
+              "name": "NCP_UML",
+              "size": 32580
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 27327
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 665
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Udayapur",
+      "children": [
+        {
+          "name": "Udayapur-1",
+          "children": [
+            {
+              "name": "Nepali_Congress",
+              "size": 33142
+            },
+            {
+              "name": "NCP_UML",
+              "size": 32594
+            },
+            {
+              "name": "NCP_Maale",
+              "size": 1295
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1196
+            }
+          ]
+        },
+        {
+          "name": "Udayapur-2",
+          "children": [
+            {
+              "name": "NCP_Maobadi",
+              "size": 22551
+            },
+            {
+              "name": "Nepali_Congress",
+              "size": 15455
+            },
+            {
+              "name": "Sanghiya_Samajbadi_Forum_Nepal",
+              "size": 1136
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
